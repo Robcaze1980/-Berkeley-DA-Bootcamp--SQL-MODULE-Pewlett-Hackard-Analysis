@@ -16,7 +16,7 @@ Using SQL we have identified next quantity of employees by deparments:
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/employees_dept_weight.png" width=80% height=80%>
 </p>
 
-[x] SOURCE: Click [Link Here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table1_source.png) to go to the querry table. 
+- [x] SOURCE: Click [Link Here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table1_source.png) to go to the querry table. 
 
 Based on the database, Development (26%), Production (22%) and Sales (16%) represent 2/3 of the total employees of PH.
 
