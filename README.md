@@ -42,7 +42,7 @@ The data querries executed has detemined that three titles/positions will the bi
 <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=80% height=80%>
 </p>
 
-- [x] **SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the dataset table**
+➡️ SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the **dataset table**
 
 ➡️ For more details of the querries used to obtain this dataset go to: **Employees born between 1952 and 1955 [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/retiring_tables.png)**
 
