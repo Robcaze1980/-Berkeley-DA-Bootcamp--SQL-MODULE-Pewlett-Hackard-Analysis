@@ -34,7 +34,9 @@ PH has achieved a high participation in the labor force for women. The Silver Ts
 >data will be an important tool for the Human Resource department to plan an adequete hiring process program, that ensure enough qualified employees, to sustitute the >
 >Silver Tsunami and the natural growing need of staff, to support the succesful growing of the company.
 
-### TABLE 3: Quantifying the Silver Tsunami in PH :ocean::ocean:
+The data querries executed has detemined that three titles/positions will the biggest impact from the Silver Tsunami. These positions represent 79% of the future retirees, as can be noted in the next graph.
+
+### GRAPH 3: Quantifying the Silver Tsunami in PH :ocean::ocean:
 
 <p align="center">
 <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=80% height=80%>
