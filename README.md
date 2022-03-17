@@ -10,7 +10,7 @@ After retrieving the employee table from the company's database, we found 300,02
 
 Using SQL we have identified next quantity of employees by deparments:
 
-### TABLE 1: Employees distribution by Department
+### GRAPH 1: Employees distribution by Department
 
 <p align="center">
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/employees_dept_weight.png" width=80% height=80%>
@@ -22,15 +22,20 @@ Based on the database, Development (26%), Production (22%) and Sales (16%) repre
 
 The querried data also let us to define the employee's distribution per gender, as shwon in the next image:
 
-### TABLE 2: Employees distribution by Gender
+### GRAPH 2: Employees distribution by Gender
 
 <p align="center">
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/gender_relation.png" width=80% height=80%>
 </p>
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+PH has achieved a high participation in the labor force for women. The Silver Tsunami challenge can be a great opportunity to level up this participation, based on the important percentage of new hirings to be needed in the next few months.
 
-### TABLE 3: :ocean::ocean: Quantifying the Silver Tsunami in PH :ocean::ocean:
+>One of the main reasong of this data analysis is to quantify how many new employees/hirings will be needed in the coming months per department and titles. All this >
+>
+>data will be an important tool for the Human Resource department to plan an adequete hiring process program, that ensure enough qualified employees, to sustitute the >
+>Silver Tsunami and the natural growing need of staff, to support the succesful growing of the company.
+
+### TABLE 3: Quantifying the Silver Tsunami in PH :ocean::ocean:
 
 <p align="center">
 <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=80% height=80%>
@@ -40,7 +45,8 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png
+
+
 
 ## SUMMARY
 
