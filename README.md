@@ -30,8 +30,7 @@ The querried data also let us to define the employee's distribution per gender, 
 
 PH has achieved a high participation in the labor force for women. The Silver Tsunami challenge can be a great opportunity to level up this participation, based on the important percentage of new hirings to be needed in the next few months.
 
->One of the main reasong of this data analysis is to quantify how many new employees/hirings will be needed in the coming months per department and titles. All this
->
+>One of the main reasong of this data analysis is to quantify how many new employees/hirings will be needed in the coming months per department and titles. All this 
 >data will be an important tool for the Human Resource department to plan an adequete hiring process program, that ensure enough qualified employees, to sustitute the >
 >Silver Tsunami and the natural growing need of staff, to support the succesful growing of the company.
 
