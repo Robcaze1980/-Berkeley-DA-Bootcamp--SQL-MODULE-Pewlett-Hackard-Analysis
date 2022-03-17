@@ -10,9 +10,13 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 ![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/employees_dept_weight.png?raw=true) 
 
+<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/employees_dept_weight.png" width=65% height=65%>
+
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 ![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png?raw=true) 
+
+<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=75% height=75%>
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
