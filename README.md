@@ -48,11 +48,17 @@ The data querries executed has detemined that three titles/positions will the bi
 
 ## SUMMARY
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Pewlett Hackard will need to fill next roles before the "silver tsunami" begins to make an impact in the company. The challenge can be summarized in the next graph.
 
-![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/retiring_tables.png?raw=true) 
+### GRAPH 4: Summary of Titles to be Filled Because the "Tsunami"
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+<p align="center">
+<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/distribution_per_title_%25.png" width=80% height=80%>
+</p>
+
+➡️ SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/distribution_per_title_%25_dataset.png) to go to the **dataset table**
+
+➡️ For more details of the querries used to obtain this dataset go to: **Unique Titles Querry [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/unique_titles.png)**
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
