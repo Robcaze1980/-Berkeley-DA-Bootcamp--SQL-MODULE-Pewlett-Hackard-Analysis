@@ -30,11 +30,13 @@ The querried data also let us to define the employee's distribution per gender, 
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
+### TABLE 3: :ocean::ocean: Quantifying the Silver Tsunami in PH :ocean::ocean:
+
 <p align="center">
 <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=80% height=80%>
 </p>
 
-- [x] **SOURCE: Click [Link Here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table1_source.png) to go to the querry table**
+- [x] **SOURCE: Click [Link Here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the querry table**
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
