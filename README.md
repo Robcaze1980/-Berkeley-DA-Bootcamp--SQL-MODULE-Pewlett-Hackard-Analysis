@@ -15,7 +15,7 @@ Using SQL we have identified next quantity of employees by deparments:
 <p align="center">
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/employees_dept_weight.png" width=80% height=80%>
 </p>
-[Link to Source Data](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table1_source.png “Source Tables”)
+##### SOURCE: Click [here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table1_source.png) to go to the querry table. 
 
 Based on the database, Development (26%), Production (22%) and Sales (16%) represent 2/3 of the total employees of PH.
 
@@ -26,7 +26,7 @@ The querried data also let us to define the employee's distribution per gender, 
 <p align="center">
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/gender_relation.png" width=80% height=80%>
 </p>
-[Link to Source Data](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png “Source Tables”)
+##### SOURCE: Click [here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the querry table. 
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
