@@ -20,7 +20,7 @@ Using SQL we have identified next quantity of employees by deparments:
 
 Based on the database, Development (26%), Production (22%) and Sales (16%) represent 2/3 of the total employees of PH.
 
-The querried data also let us to define the employee's distribution per gender, as shwon in the next image:
+The querried data also let us to define the employee's distribution per gender, as shown in the next image:
 
 ### GRAPH 2: Employees distribution by Gender
 
@@ -42,12 +42,9 @@ The data querries executed has detemined that three titles/positions will the bi
 <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/silver_tsunami%20relation_chart.png" width=80% height=80%>
 </p>
 
-- [x] **SOURCE: Click [Link Here](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the querry table**
+- [x] **SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/Table2_tsunami_relation.png) to go to the dataset table**
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
-
-
+➡️ For more details of the querries used to obtain this dataset go to: **Employees born between 1952 and 1955 [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/retiring_tables.png)**
 
 ## SUMMARY
 
