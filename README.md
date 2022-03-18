@@ -48,7 +48,7 @@ The data querries executed has detemined that three titles/positions will the bi
 
 ## SUMMARY
 
-Pewlett Hackard will need to fill next roles before the "silver tsunami" begins to make an impact in the company. The challenge can be summarized in the next graph.
+Pewlett Hackard will need to fill next roles before the "silver tsunami" begins to make an impact in the company. Based on the querry made, to determine how many active employees were born between 1952 and 1955, 72,458 employees will be soon ready to retirement. This big challenge can be summarized in the next graph.
 
 ### GRAPH 4: Summary of Titles to be Filled Because the "Tsunami"
 
@@ -66,5 +66,6 @@ The different querries to the database shows there is a big challenge in the nea
 - An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide tailored and 
 - specific training to internal employers and new hires to maken them ready to assume the soon available positions.
 ```
-  
+This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors by department.
+
 ![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png?raw=true) 
