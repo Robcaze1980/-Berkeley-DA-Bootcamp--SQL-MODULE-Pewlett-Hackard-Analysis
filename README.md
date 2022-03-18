@@ -71,7 +71,7 @@ This mentorhsip program can be conformed of + 33,000 current employees were born
 ### GRAPH 5: Summary of Available Mentor per Departments
 
 <p align="center">
-<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/tutoring_distribution.png" width=80% height=80%>
+<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/tutoring_distribution.png" width=100% height=100%>
 </p>
 
 ➡️ SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/tutoring_distribution_TABLE.png) to go to the **dataset table**
