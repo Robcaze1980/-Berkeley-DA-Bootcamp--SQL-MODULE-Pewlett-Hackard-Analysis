@@ -64,7 +64,7 @@ The different querries to the database shows there is a big challenge in the nea
 
 ```diff
 - An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide tailored and 
-specific training to internal employers and new hires to maken them ready to assume the soon available positions.
+- specific training to internal employers and new hires to maken them ready to assume the soon available positions.
 ```
   
 ![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png?raw=true) 
