@@ -66,6 +66,15 @@ The different querries to the database shows there is a big challenge in the nea
 - An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide tailored and 
 - specific training to internal employers and new hires to maken them ready to assume the soon available positions.
 ```
-This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors by department.
+This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors for each department.
 
-![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png?raw=true) 
+### GRAPH 5: Summary of Available Mentor per Departments
+
+<p align="center">
+<img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/tutoring_distribution.png" width=80% height=80%>
+</p>
+
+➡️ SOURCE: Click [HERE](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/tutoring_distribution_TABLE.png) to go to the **dataset table**
+
+➡️ For more details of the querries used to obtain this dataset go to: **Mentorship Eligibility Querry [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png)**
+
