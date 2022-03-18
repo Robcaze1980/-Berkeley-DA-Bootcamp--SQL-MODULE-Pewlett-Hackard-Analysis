@@ -63,9 +63,9 @@ Pewlett Hackard will need to fill next roles before the "silver tsunami" begins 
 The different querries to the database shows there is a big challenge in the near future and inmediate actions has to be taken to ensure the company is not facing a treat to his succesful grow and position in current markets. 
 
 ```diff
-- An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide 
-- tailored and specific training to internal employers and new hires to maken them ready to assume the soon 
-- available positions.
+- An initial proposal is to create an immediate mentorship program, where retirement-ready employees provide tailored
+- and specific training to internal employees and new hires to make them ready to assume the soon available
+- positions.
 ```
 This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors for each department.
 
