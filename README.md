@@ -64,8 +64,8 @@ The different querries to the database shows there is a big challenge in the nea
 
 ```diff
 - An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide 
-tailored and specific training to internal employers and new hires to maken them ready to assume the soon 
-available positions.
+- tailored and specific training to internal employers and new hires to maken them ready to assume the soon 
+- available positions.
 ```
 This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors for each department.
 
