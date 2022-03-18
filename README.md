@@ -60,6 +60,12 @@ Pewlett Hackard will need to fill next roles before the "silver tsunami" begins 
 
 ➡️ For more details of the querries used to obtain this dataset go to: **Unique Titles Querry [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/unique_titles.png)**
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+The different querries to the database shows there is a big challenge in the near future and inmediate actions has to be taken to ensure the company is not facing a treat to his succesful grow and position in current markets. 
 
+```diff
+- An initial proposal is to create an inmediate mentorship program, where retirement-ready employees provide tailores
++ and specific training to internal employers and new hires to maken them ready
+@@ to assume the soon available positions. @@
+```
+  
 ![alt text](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png?raw=true) 
