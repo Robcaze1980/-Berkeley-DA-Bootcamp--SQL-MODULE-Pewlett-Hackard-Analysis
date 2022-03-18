@@ -2,13 +2,13 @@
 ------------------
 ## OVERVIEW OF THE ANALYSIS
 
-This analysis was based in SQL querries to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program in Pewlett Hackard.
+This analysis was based on SQL queries to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program in Pewlett Hackard.
 
 ## RESULTS 
 
-After retrieving the employee table from the company's database, we found 300,024 records since 1985-01-01. Same amount of employee numbers exist as well, so in total, we can conclude has been 300,024 employees at Pewlett Hackard.
+After retrieving the employee table from the company's database, we found 300,024 records from 1985-01-01. The same number of employee numbers exist as well, so in total, we can conclude there has been 300,024 employees at Pewlett Hackard.
 
-Using SQL we have identified next quantity of employees by deparments:
+Using SQL we have identified the next quantity of employees by departments:
 
 ### GRAPH 1: Employees distribution by Department
 
@@ -20,7 +20,7 @@ Using SQL we have identified next quantity of employees by deparments:
 
 Based on the database, Development (26%), Production (22%) and Sales (16%) represent 2/3 of the total employees of PH.
 
-The querried data also let us to define the employee's distribution per gender, as shown in the next image:
+The queried data also let us define the employee's distribution per gender, as shown in the next image:
 
 ### GRAPH 2: Employees distribution by Gender
 
@@ -28,13 +28,13 @@ The querried data also let us to define the employee's distribution per gender, 
     <img src="https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/gender_relation.png" width=80% height=80%>
 </p>
 
-PH has achieved a high participation in the labor force for women. The Silver Tsunami challenge can be a great opportunity to level up this participation, based on the important percentage of new hirings to be needed in the next few months.
+PH has achieved a high participation in the labor force for women. The Silver Tsunami challenge could be a great opportunity to level up this participation, based on the significant percentage of new hiring to be needed in the next few months.
 
->One of the main reasong of this data analysis is to quantify how many new employees/hirings will be needed in the coming months per department and titles. All this 
->data will be an important tool for the Human Resource department to plan an adequete hiring process program, that ensure enough qualified employees, to sustitute the >
->Silver Tsunami and the natural growing need of staff, to support the succesful growing of the company.
+>One of the main reasons of this data analysis is to quantify how many new employees/hirings will be needed in the coming months per department and title. All this 
+>data will be an important tool for the Human Resource department to plan an adequate hiring process program, that ensures enough qualified employees, to substitute the >
+>Silver Tsunami and the natural growing need of staff, to support the succesful growth of the company.
 
-The data querries executed has detemined that three titles/positions will the biggest impact from the Silver Tsunami. These positions represent 79% of the future retirees, as can be noted in the next graph.
+The data queries executed have detemined that three titles/positions will the biggest impact from the Silver Tsunami. These positions represent 79% of the future retirees, as can be noted in the next graph.
 
 ### GRAPH 3: Quantifying the Silver Tsunami in PH :ocean::ocean:
 
@@ -48,7 +48,7 @@ The data querries executed has detemined that three titles/positions will the bi
 
 ## SUMMARY
 
-Pewlett Hackard will need to fill next roles before the "silver tsunami" begins to make an impact in the company. Based on the querry made, to determine how many active employees were born between 1952 and 1955, 72,458 employees will be soon ready to retirement. This big challenge can be summarized in the next graph.
+Pewlett Hackard will need to fill the next roles before the "silver tsunami" begins to make an impact in the company. Based on the query made, to determine how many active employees were born between 1952 and 1955, 72,458 employees will soon be ready to retire. This big challenge can be summarized in the next graph.
 
 ### GRAPH 4: Summary of Titles to be Filled Because the "Tsunami"
 
@@ -60,14 +60,14 @@ Pewlett Hackard will need to fill next roles before the "silver tsunami" begins 
 
 ➡️ For more details of the querries used to obtain this dataset go to: **Unique Titles Querry [LINK](https://github.com/Robcaze1980/Pewlett-Hackard-Analysis/blob/main/images/unique_titles.png)**
 
-The different querries to the database shows there is a big challenge in the near future and inmediate actions has to be taken to ensure the company is not facing a treat to his succesful grow and position in current markets. 
+The different queries to the database show there is a big challenge in the near future and immediate actions have to be taken to ensure the company is not facing a threat to its succesful growth and position in current markets. 
 
 ```diff
 - An initial proposal is to create an immediate mentorship program, where retirement-ready employees provide tailored
 - and specific training to internal employees and new hires to make them ready to assume the soon available
 - positions.
 ```
-This mentorhsip program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart detail the number of employees can be mentors for each department.
+This mentorship program can be conformed of + 33,000 current employees were borned between Jan/1955 and Dec/1955. The next chart details the number of employees that can be mentors for each department.
 
 ### GRAPH 5: Summary of Available Mentor per Departments
 
